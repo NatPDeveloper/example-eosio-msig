@@ -1,0 +1,29 @@
+{
+  "name": "example-eosio-msig",
+  "version": "1.0.0",
+  "description": "Example eosio multi signature eosjs example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatPDeveloper/example-eosio-msig.git"
+  },
+  "keywords": [
+    "eosio",
+    "multi",
+    "signature",
+    "eosjs"
+  ],
+  "author": "NatPDeveloper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NatPDeveloper/example-eosio-msig/issues"
+  },
+  "homepage": "https://github.com/NatPDeveloper/example-eosio-msig#readme",
+  "dependencies": {
+    "eosjs": "^22.1.0",
+    "node-fetch": "^2.6.1"
+  }
+}
